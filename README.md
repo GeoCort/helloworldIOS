@@ -12,7 +12,9 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
+## Video Walkthrough
+![prework](https://github.com/user-attachments/assets/6d934a12-de24-41f6-9d6c-881579549d42)
+
 ## App Brainstorming
 ### X/ Twitter
 - Hearing all the latest news by following main and fan accounts.
